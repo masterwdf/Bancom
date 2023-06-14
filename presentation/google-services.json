@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569726084445",
+    "project_id": "bancom-4cddb",
+    "storage_bucket": "bancom-4cddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569726084445:android:955717f799a7110d18f4b4",
+        "android_client_info": {
+          "package_name": "com.example.bancom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569726084445-qkatp6963u6g2b70skkpmk8f28d5v3gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bancom",
+            "certificate_hash": "99618dc0ceaaa32e0b84f43d19fa66cfe16df347"
+          }
+        },
+        {
+          "client_id": "569726084445-n4gg7ukq4g5vp3gpkhss727bk4b4dfue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHiTXPZmZOn_uXMcd4FNyNnKLtqBNIW0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569726084445-02tgp0q0qia9bpr9sqbqnj5qc6vvu0j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

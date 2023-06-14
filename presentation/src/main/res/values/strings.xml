@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">Bancom</string>
+
+    <!-- Login -->
+    <string name="login_title_bar">Login</string>
+    <string name="login_welcome">Bienvenido</string>
+    <string name="login_session">Inicia sesión</string>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="login_save_email">Recordar correo</string>
+    <string name="login_text">Ingresar</string>
+    <string name="login_google">Ingresar con Google</string>
+    <string name="login_email_required">Email requerido</string>
+    <string name="login_email_format">Email formato incorrecto</string>
+    <string name="login_password_required">Contraseña requerido</string>
+
+    <!-- Home -->
+    <string name="home_title_bar">Home</string>
+    <string name="home_name">Nombre</string>
+    <string name="home_username">Username</string>
+    <string name="home_address">Dirección</string>
+    <string name="home_email">Correo</string>
+    <string name="home_phone">Phone</string>
+    <string name="home_create_post">Crear un post</string>
+
+    <!-- Detail -->
+    <string name="detail_title_bar">Detail</string>
+    <string name="detail_create_post">Crear post</string>
+    <string name="detail_title">Título</string>
+    <string name="detail_description">Descripción</string>
+    <string name="detail_save">Guardar</string>
+    <string name="detail_title_required">Título requerido</string>
+    <string name="detail_description_required">Descripción requerido</string>
+
+</resources>
